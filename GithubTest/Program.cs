@@ -7,3 +7,4 @@ Console.WriteLine("Gibbie Wuz Here");
 Console.WriteLine("Borgir"); //N.
 MathCustom.factorial(4,0);
 Console.WriteLine("Martins Branch ændring");
+Console.WriteLine("Ny Martins branch ændring");
