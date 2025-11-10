@@ -2,4 +2,6 @@
 Console.WriteLine("Hello, World!");
 Lua.print("sus");
 Console.WriteLine("Gibbie Wuz Here");
+Console.WriteLine("Martin wuz 'ere");
+Console.WriteLine("Gibbie Wuz Here");
 Console.WriteLine("Borgir"); //N.
